@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center"> Hey 👋, I'm Tim </h1>
+
+<h3 align="center">I'm becoming a devlopper thank's to @42Paris</h3>
+
+
 
 <!--
 **Trolent/Trolent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
