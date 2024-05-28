@@ -7,7 +7,9 @@
 <h1 align="center">FINISHED PROJECTS</h1>
 
 <p align="center">
-  <img height="150" src="https://github.com/Trolent/Trolent/blob/e2a84c046e74211bac5266747ef54d4af820baf6/Badges/libftm.png" title="libft: 125/100" />
+  <a href="https://github.com/Trolent/libft-project">
+    <img height="150" src="https://github.com/Trolent/Trolent/blob/e2a84c046e74211bac5266747ef54d4af820baf6/Badges/libftm.png" title="libft: 125/100" />
+  </a>
   <img height="150" src="https://github.com/Trolent/Trolent/blob/e2a84c046e74211bac5266747ef54d4af820baf6/Badges/get_next_linem.png" title="get_next_line: 125/100" />
   <img height="150" src="https://github.com/Trolent/Trolent/blob/e2a84c046e74211bac5266747ef54d4af820baf6/Badges/ft_printfe.png" title="printf: 100/100" />
   <img height="150" src="https://github.com/Trolent/Trolent/blob/e2a84c046e74211bac5266747ef54d4af820baf6/Badges/born2berootm.png" title="Born2Beroot: 125/100" />
