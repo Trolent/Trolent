@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Tim</h1>
 
-<h3 align="center">I'm becoming a developer thanks to @42Paris</h3>
+<h3 align="center">I'm becoming a developer thanks to <a href="https://github.com/42Paris" target="_blank">42 Paris</a></h3>
+
 
 <h1 align="center">FINISHED PROJECTS</h1>
 
